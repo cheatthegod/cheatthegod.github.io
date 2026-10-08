@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Qingran Cai"
+title                    : "蔡清苒 (Qingran Cai)"
 title_separator          : "-"
-name                     : &name "Qingran Cai"
-description              : &description "Qingran Cai's academic homepage"
+name                     : &name "蔡清苒 (Qingran Cai)"
+description              : &description "蔡清苒 (Qingran Cai)'s academic homepage"
 url                      : https://cheatthegod.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,8 +23,8 @@ repository               : "cheatthegod/cheatthegod.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Qingran Cai"
+  avatar           : "profile-v2.png"
+  name             : "蔡清苒 (Qingran Cai)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student, DeepDelta Lab, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
